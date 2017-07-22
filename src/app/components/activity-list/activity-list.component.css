@@ -1,0 +1,53 @@
+.row-runs{
+  background-color: rgba(255,255,255,0.94);
+  padding: 20px 32px;
+  padding-bottom: 50px;
+  margin-top: 50px;
+  opacity: 0.95;
+}
+
+td{
+  font-size: 1.4em;
+}
+
+table>tbody>tr:hover{
+  background-color: #fff;
+}
+
+td > a{
+  color: #000;
+  text-decoration: none;
+}
+
+td > a:hover{
+  background: #000;
+  color: #fff;
+}
+
+hr{
+  border-color: #ddd;
+}
+
+.summary{
+  font-size: 1.4em;
+}
+
+.heading{
+  font-family: 'Lato', sans-serif;
+}
+
+.totals{
+  display: inline;
+  font-family: 'Lato', sans-serif;
+  color:#333;
+  margin: 2px;
+}
+
+table{
+  width: 100%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.text-center{
+  text-align: center;
+}

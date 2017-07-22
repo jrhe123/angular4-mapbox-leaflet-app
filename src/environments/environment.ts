@@ -4,5 +4,6 @@
 // The list of which env maps to which file can be found in `.angular-cli.json`.
 
 export const environment = {
-  production: false
+	production: false,
+	MAPBOX_API_KEY: 'pk.eyJ1Ijoicm95dGVzdCIsImEiOiJjajVlc3ZndzgwOGdtMzBvMW5lYjQ5d3R2In0.KErjkDp35R7x_MUERnVfGA'
 };
